@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = ta.ligado.config.TestContainersSpringContextCustomizerFactory
